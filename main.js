@@ -6,7 +6,10 @@ const app= new Vue({
             {nombre:'Manzana', cantidad:10},
             {nombre:'Pera', cantidad:0},
             {nombre:'Platano' , cantidad:11},
-            {nombre:'fresa' , cantidad:7}
-        ]
+            {nombre:'fresa' , cantidad:7},
+        
+            {nombre:'uva' , cantidad:12}
+        ],
+        
     }
 });
