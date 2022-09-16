@@ -8,7 +8,7 @@ const app= new Vue({
             {nombre:'Platano' , cantidad:11},
             {nombre:'fresa' , cantidad:7},
         
-            {nombre:'uva' , cantidad:12}
+            {nombre:'calabaza' , cantidad:12}
         ],
         
     }
